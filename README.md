@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🖐 Hello, I'm @deBeee a third year student of computer science.
-- 👀 I’m mainly interested in programming, mostly in Java but also C, C++ and Python.
+- 👀 I’m mainly interested in programming. Preferably back-end languages, mostly in Java but also C, C++ and Python.
 - 🤔 I have no professional experience so I am looking for an internship as a Java/C++ Developer to gain this experience above all. Of course I am open-minded in other technologies or programming languages.
 - Programming Languages: Java, C++, C, Python, SQL, HTML, CSS, JavaScript, XML, Bash, Kotlin (the order reflects the level of advancement)
 - Additional Skills: Git, Windows, Linux
