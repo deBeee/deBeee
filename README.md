@@ -15,10 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🖐 Hello, I'm @deBeee a third year student of computer science.
-- 👀 I’m mainly interested in programming. Preferably back-end languages, mostly in Java but also C, C++ and Python.
-- 🤔I am looking for an internship as a Java/C++ Developer to gain experience above all. Of course I am open-minded in other technologies or programming languages.
-- Programming Languages: Java, C++, C, Python, SQL, HTML, CSS, JavaScript, XML, Bash, Kotlin (the order reflects the level of advancement)
-- Additional Skills: Git, Windows, Linux
+- 🖐 Hello, I'm @deBeee a fourth year student of computer science.
+- 👀 I’m mainly interested in programming with Java, but recently I have explored some frontend technologies such as Angular, which greatly appealed to me.
+- 🤔 I am looking for an internship as a Java/Fullstack Developer to gain experience above all. My goal is to grow within a dynamic team that values continuous learning.
+- Projects I'm proud of:
+  - [JobOffers](https://github.com/deBeee/JobOffers)
+  - [GitRepoExplorer](https://github.com/deBeee/GitRepoExplorer)
 - 📫 How to reach me: dominik.bytnar@gmail.com
 
